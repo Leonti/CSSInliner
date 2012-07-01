@@ -1,0 +1,19 @@
+div {
+	background-color: green;
+}
+
+#testId {
+	color: red;
+}
+
+div.testClass {
+	border: none;
+}
+
+.helloClass {
+	font-weight: bold;
+}
+
+p {
+	font-size: small;
+}
