@@ -13,6 +13,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import com.leonty.Selector;
 import com.osbcp.cssparser.CSSParser;
 import com.osbcp.cssparser.PropertyValue;
 import com.osbcp.cssparser.Rule;
