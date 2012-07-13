@@ -57,8 +57,7 @@ public class CSSInliner {
 			// if this is used for email we don't need id and style attributes
 			// as all of our styles are already inline
 			if (removeAttributes) {
-				pair.getKey().removeAttr("class");
-				pair.getKey().removeAttr("id");				
+				pair.getKey().removeAttr("class");			
 			}
 		}
 	}
