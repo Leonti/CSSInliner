@@ -7,7 +7,7 @@ By Leonty Belskiy
 Css will be merged with provided html:
 	String inlinedHtml = CSSInliner.inlineCss(html, css);
 
-If used for email, 'id' and 'class' attributes can be removed:
+If used for email, 'class' attributes can be removed:
 	String inlinedHtml = CSSInliner.inlineCss(html, css, true);
 
 
