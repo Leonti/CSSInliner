@@ -1,6 +1,6 @@
 #CSSInliner - Utility to inline css styles in html document
 
-By Leonty Belskiy
+By Leonti Bielski
 
 ##Code examples
 
@@ -20,7 +20,7 @@ v1.0 2012-02-05 Leonty Belskiy
 ##License
 
 CSSInliner
-Copyright 2012 Leonty Belskiy, leonti[at]eleonti.com.
+Copyright 2012 Leonti Bielski, leonti.me
 
 Licensed under the Apache License, Version 2.0
 
