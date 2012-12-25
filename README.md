@@ -13,7 +13,7 @@ If used for email, 'class' attributes can be removed:
 
 ##Changes
 
-v1.0 2012-02-05 Leonty Belskiy
+v1.0 2012-02-05 Leonti Bielski
 
 * Initial release
 
